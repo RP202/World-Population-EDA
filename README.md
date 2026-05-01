@@ -78,12 +78,6 @@ This project demonstrates the ability to:
 
 ---
 
-## 👩‍💻 Author
-
-**Rupali Pasa**
-
----
-
 ## 📎 Project Structure
 
 ```
