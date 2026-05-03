@@ -35,13 +35,6 @@ The dataset contains information regarding population dynamics, covering:
 *   **Oceania** has the lowest population levels.
 
 ---
-
-## 📈 Visualizations
-*(You can add a placeholder for your heatmap here)*
-*   **Correlation Heatmap:** Used to identify strong vs. weak relationships between variables.
-
----
-
 ---
 
 ## 📊 Key Findings & Insights
@@ -62,7 +55,25 @@ The dataset contains information regarding population dynamics, covering:
 ---
 
 ## 📈 Visualizations
-*(You can add a placeholder for your heatmap here)*
 *   **Correlation Heatmap:** Used to identify strong vs. weak relationships between variables.
 
 ---
+## 🚀 Project Outcomes
+*   Performed structured EDA to analyze global trends.
+*   Interpreted correlation matrices to identify redundant features and key drivers.
+*   Visualized data to present clear, actionable insights.
+
+---
+
+## 📂 Project Structure
+```text
+📁 World-Population-EDA
+│── README.md
+│── world_population.csv
+│── eda_notebook.ipynb
+```
+
+---
+
+## 👩‍💻 Author
+**Rupali Pasa**
